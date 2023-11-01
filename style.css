@@ -40,13 +40,3 @@ p{
     color: #fff;
     font-weight: 600;
 }
-.boton{
-    display: inline-block;
-    margin-top: 15px;
-    text-decoration: none;
-    background: #1a84d3;
-    color: #fff;
-    padding: 10px 15px;
-    border-radius: 5px;
-    font-size: 15px;
-}
